@@ -1,7 +1,7 @@
 # lung-cancer-detection (https://www.kaggle.com/c/data-science-bowl-2017)
 This is a project based on Data Science Bowl 2017. We tried to propose a solution for the problem but we are still new to Deep Learning so our solution is not the optimal one but it can definitely be improved with some fine tuning and better resources (running with a cloud GPU cluster).
 
-## Overview
+## Overview__
 
 Lung cancer claims the lives of 225,000 Americans annually and costs the healthcare system $12 billion. To provide patients the best chance of rehabilitation and survival, early detection is essential.
 

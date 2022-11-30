@@ -21,4 +21,4 @@ The DICOM files have a header that contains the necessary information about the 
 
 The competition task is to create an automated method capable of determining whether or not the patient will be diagnosed with lung cancer within one year of the date the scan was taken. The ground truth labels were confirmed by pathology diagnosis.
 
-The images in this dataset come from many sources and will vary in quality. For example, older scans were imaged with less sophisticated equipment. You should expect the stage 2 data to be, on the whole, more recent and higher quality than the stage 1 data (generally having thinner slice thickness). Ideally, your algorithm should perform well across a range of image quality.
+The images in this dataset come from many sources and will vary in quality. For example, older scans were imaged with less sophisticated equipment. You should expect the stage 2 data to be, on the whole, more recent and higher quality than the stage 1 data.

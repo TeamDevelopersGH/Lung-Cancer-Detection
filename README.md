@@ -3,7 +3,7 @@ This is a project based on Data Science Bowl 2017. We tried to propose a solutio
 
 ## Overview
 
-In the United States, lung cancer strikes 225,000 people every year, and accounts for $12 billion in health care costs. Early detection is critical to give patients the best chance at recovery and survival.
+Lung cancer claims the lives of 225,000 Americans annually and costs the healthcare system $12 billion. To provide patients the best chance of rehabilitation and survival, early detection is essential.
 
 Two years ago, the office of the U.S. Vice President spearheaded a bold new initiative, the Cancer Moonshot, to make a decade's worth of progress in cancer prevention, diagnosis, and treatment in just 5 years.
 
